@@ -1,0 +1,4 @@
+{
+    "testRepo": "3-sum-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
